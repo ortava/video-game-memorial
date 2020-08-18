@@ -13,7 +13,52 @@
     <h2>Created by Ryan Tavares</h2>
     <p>In memory of...</p>
 
+    <div class="graveyard">
+        <div class="column">
+            <div class="nameplate">
+                <script>
+                    function generateNameplate(){
+                        // write from json file to here
+                        var xhr = new XMLHttpRequest();
+                        xhr.open('GET', 'nameplates.json', true);
+
+                        xhr.onload = function(){
+                            if(this.status == 200){
+                                var nameplate = JSON.parse(xhr.responseText);
+                                console.log(nameplate[0].title);
+                                /*var output = '';    // initialize output string
+
+                                //for(var i in nameplates){                                         //potential for a loop here to generate every nameplate in nameplates.json
+                                    output += '<img src="'+nameplate.image+'" alt="Video Game "';
+
+                                    if(nameplate.console == ("SNES" || "DS" || "3DS" || "PS1")){
+                                    output += 'width="200" height="160"><br>';
+                                    }
+                                    else
+                                    output += 'width="160" height="200"><br>';
+
+                                    output += '<div class="title">'+nameplate.title+'</div><hr>' +
+                                    '<div class="description">'+nameplate.description+'</div>';
+                                    
+                                //}                                                                 //*end of loop comment*
+
+                                    document.getElementById('nameplate').innerHTML = output;
+                                */
+                            }
+                        }
+                        xhr.send();
+                    }
+
+
+                        
+                    
+                </script>
+            </div>
+        </div>
+    </div>
+
     <!--note that the repeated code to create the nameplates will likely be generated via javascript later-->
+    <!--
     <div class="graveyard">
         <div class="column">
             <div class="nameplate">
@@ -33,7 +78,7 @@
         </div>
         <div class="column">
             <div class="nameplate">
-                <img src="covers/cover_skyrim.jpg" alt="Video Game" width="160" height="200"><br>
+                <img src="covers/Skyrim.jpg" alt="Video Game" width="160" height="200"><br>
                 <div class="title">Video Game 0: Origins</div><hr>
                 <div class="description">Dargonbarn Bargondoff Guarantine Skelodong WOW WOW WOW WOW WOW OWO WOWOWO OW OWO</div>
             </div>
@@ -48,7 +93,7 @@
         </div>
         <div class="column">
             <div class="nameplate">
-                <img src="covers/cover_contra3.png" alt="Video Game" width="160" height="200"><br>
+                <img src="covers/Contra3.png" alt="Video Game" width="160" height="200"><br>
                 <div class="title">Contra III: Alien Wars</div><hr>
                 <div class="description">This is a fun game.</div>
             </div>
@@ -62,5 +107,6 @@
             <div class="nameplate">###############</div>
         </div>
     </div>
+    -->
 </body>
 </html>

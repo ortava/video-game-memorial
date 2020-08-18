@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Super Mario Sunshine",
+        "image":"covers/SuperMarioSunshine.jpg",
+        "console":"Gamecube",
+        "description":"Hey man, this game was pretty cool. Yeah for real though. Yeah for real.",
+        "isAlive": 0
+    },
+    {
+        "name":"F-Zero GX",
+        "image":"covers/FZeroGX.png",
+        "console":"Gamecube",
+        "description":"fast zoom game go zoom game boost",
+        "isAlive": 0
+    },
+    {
+        "name":"hey",
+        "image":"covers/hey.png",
+        "console":"Wii U",
+        "description":"hey",
+        "isAlive": 0
+    },
+    {
+        "name":"Contra III: The Alien Wars",
+        "image":"covers/Contra3.png",
+        "console":"SNES",
+        "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
+        "isAlive": 1
+    },
+    {
+        "name":"Skyrim",
+        "image":"covers/Skyrim.jpg",
+        "console":"PC",
+        "description":"11/11/11",
+        "isAlive": 1
+    }
+]
