@@ -13,48 +13,8 @@
     <h2>Created by Ryan Tavares</h2>
     <p>In memory of...</p>
 
-    <div class="graveyard">
-        <div class="column">
-            <div class="nameplate">
-                <script>
-                    function generateNameplate(){
-                        // write from json file to here
-                        var xhr = new XMLHttpRequest();
-                        xhr.open('GET', 'nameplates.json', true);
-
-                        xhr.onload = function(){
-                            if(this.status == 200){
-                                var nameplate = JSON.parse(xhr.responseText);
-                                console.log(nameplate[0].title);
-                                /*var output = '';    // initialize output string
-
-                                //for(var i in nameplates){                                         //potential for a loop here to generate every nameplate in nameplates.json
-                                    output += '<img src="'+nameplate.image+'" alt="Video Game "';
-
-                                    if(nameplate.console == ("SNES" || "DS" || "3DS" || "PS1")){
-                                    output += 'width="200" height="160"><br>';
-                                    }
-                                    else
-                                    output += 'width="160" height="200"><br>';
-
-                                    output += '<div class="title">'+nameplate.title+'</div><hr>' +
-                                    '<div class="description">'+nameplate.description+'</div>';
-                                    
-                                //}                                                                 //*end of loop comment*
-
-                                    document.getElementById('nameplate').innerHTML = output;
-                                */
-                            }
-                        }
-                        xhr.send();
-                    }
-
-
-                        
-                    
-                </script>
-            </div>
-        </div>
+    <div class="graveyard" id="graveyard">  <!--remove class linkage in CSS-->
+        <script src="main.js" type="text/javascript"></script>>
     </div>
 
     <!--note that the repeated code to create the nameplates will likely be generated via javascript later-->
