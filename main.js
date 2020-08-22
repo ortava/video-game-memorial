@@ -6,7 +6,7 @@ var xhr = new XMLHttpRequest();
 
 //note that one could create a server to host this file using node.js, or you could use databases from SQL for example.
 xhr.open('GET',                                                                                                     // retrieve data from json file
-        'https://raw.githubusercontent.com/RabbitOTM/RabbitOTM.github.io/Nameplate_Population/nameplates.json',     // this is the link to the json file via github. 
+        'https://raw.githubusercontent.com/RabbitOTM/RabbitOTM.github.io/master/nameplates.json',     // this is the link to the json file via github. 
         true);                                                                                                      // this is an asynchronous operation
 
 xhr.onload = function(){
