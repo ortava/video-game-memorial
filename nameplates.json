@@ -9,7 +9,11 @@
     },
     {
         "title":"F-Zero GX",
+<<<<<<< HEAD
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
+=======
+        "image":"/FZeroGX.png",
+>>>>>>> 7c98b730da4471d898de60a487aedf31034878bd
         "console":"Gamecube",
         "description":"fast zoom game go zoom game boost",
         "isAlive": "false",
@@ -17,7 +21,11 @@
     },
     {
         "title":"hey",
+<<<<<<< HEAD
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
+=======
+        "image":"./hey.png",
+>>>>>>> 7c98b730da4471d898de60a487aedf31034878bd
         "console":"Wii U",
         "description":"hey",
         "isAlive": "false",
@@ -25,7 +33,11 @@
     },
     {
         "title":"Contra III: The Alien Wars",
+<<<<<<< HEAD
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
+=======
+        "image":".covers/Contra3.png",
+>>>>>>> 7c98b730da4471d898de60a487aedf31034878bd
         "console":"SNES",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
         "isAlive": "true",
@@ -33,7 +45,11 @@
     },
     {
         "title":"Skyrim",
+<<<<<<< HEAD
         "image":"https://github.com/RabbitOTM/video-game-memorial/blob/master/src/covers/Skyrim.jpg",
+=======
+        "image":"./covers/Skyrim.jpg",
+>>>>>>> 7c98b730da4471d898de60a487aedf31034878bd
         "console":"PC",
         "description":"11/11/11",
         "isAlive": "true",
