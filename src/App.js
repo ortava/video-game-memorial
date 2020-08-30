@@ -90,7 +90,7 @@ function generateNameplates(data, indexRangeBottom, indexRangeTop){
 
   for(var i = indexRangeBottom; i < indexRangeTop; i++){
       output += "<div class='nameplate'>"+
-      "<img src={process.env.PUBLIC_URL '"+data[i].image+"' alt='Video Game' ";
+      "<img src='"+data[i].image+"' alt='Video Game' ";
 
       if(data[i].console === ("SNES" || "DS" || "3DS" || "PS1")){
       output += "width='160' height='200'/><br>";                     // to do: change small cover width & height/aspect ratio here
