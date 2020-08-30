@@ -1,7 +1,7 @@
 [
    {
         "title":"Super Mario Sunshine",
-        "image":"src/covers/SuperMarioSunshine.jpg",
+        "image":".covers/SuperMarioSunshine.jpg",
         "console":"Gamecube",
         "description":"Hey man, this game was pretty cool. Yeah for real though. Yeah for real.",
         "isAlive": "false",
@@ -9,7 +9,7 @@
     },
     {
         "title":"F-Zero GX",
-        "image":"src/covers/FZeroGX.png",
+        "image":".covers/FZeroGX.png",
         "console":"Gamecube",
         "description":"fast zoom game go zoom game boost",
         "isAlive": "false",
@@ -17,7 +17,7 @@
     },
     {
         "title":"hey",
-        "image":"src/covers/hey.png",
+        "image":".covers/hey.png",
         "console":"Wii U",
         "description":"hey",
         "isAlive": "false",
@@ -25,7 +25,7 @@
     },
     {
         "title":"Contra III: The Alien Wars",
-        "image":"src/covers/Contra3.png",
+        "image":".covers/Contra3.png",
         "console":"SNES",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
         "isAlive": "true",
@@ -33,7 +33,7 @@
     },
     {
         "title":"Skyrim",
-        "image":"src/covers/Skyrim.jpg",
+        "image":".covers/Skyrim.jpg",
         "console":"PC",
         "description":"11/11/11",
         "isAlive": "true",
