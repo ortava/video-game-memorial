@@ -9,7 +9,7 @@ var index = 0;  // a global value that keeps track of the last element printed b
 
 export default function App() {
   const ref = useRef('');                             // ref for the element that we want to detect whether on screen
-  const moreGames = useMoreGames(ref, '125px');       // call the hook passing in ref and root margin
+  const moreGames = useMoreGames(ref, '100px');       // call the hook passing in ref and root margin
   var xhr = new XMLHttpRequest();
 
   // note that one could host this file a number of different ways.
@@ -90,13 +90,13 @@ function generateNameplates(data, indexRangeBottom, indexRangeTop){
 
   for(var i = indexRangeBottom; i < indexRangeTop; i++){
       output += "<div class='nameplate'>"+
-      "<img src='"+data[i].image+"' alt='Video Game' ";
+      "<img src={process.env.PUBLIC_URL '"+data[i].image+"' alt='Video Game' ";
 
       if(data[i].console === ("SNES" || "DS" || "3DS" || "PS1")){
-      output += "width='160' height='200'><br>";                     // to do: change small cover width & height/aspect ratio here
+      output += "width='160' height='200'/><br>";                     // to do: change small cover width & height/aspect ratio here
       }
       else
-      output += "width='160' height='200'><br>"; 
+      output += "width='160' height='200'}/><br>"; 
 
       output += "<div class='title'>"+data[i].title+"</div><hr>" +     
       "<div class='description'>"+data[i].description+"</div>" +
