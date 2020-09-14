@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shanti&display=swap');
+
 body {
     height: 100%;
     margin: 0;
@@ -8,66 +11,156 @@ body {
 
 h1 {
     font-size: 3rem;
-    font-family: Courier New, serif;
+    font-family: 'Coda', 'Courier New';
     color: rgb(216,218,190);
+    padding-top: 20px;
 }
 
 h2 {
     font-size: 1.5rem;
-    font-family: Courier New, serif;
+    font-family: 'Coda', 'Courier New';
     color: rgb(216,218,190);
+    padding-bottom: 0px;
 }
 
 p {
     font-size: 1rem;
-    font-family: Courier New, serif;
+    font-family: 'Coda', 'Courier New';
     color: rgb(216,218,190);
 }
 
 #toolbar {
+    display: flex;
+    flex-direction: columns;
+    font-size: 1rem;
+    font-family: 'Coda';
+    font-weight: 400;
     position: -webkit-sticky;   /*for Safari browser*/
     position: sticky;
     top: 0;
-    background-color: yellow;
+    background-color: rgba(190, 190, 0, 0.950);
     padding: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 50px;
     text-align: left;
+    z-index: 10;
 }
 
-#graveyard {
+#sort {
+    width: 88%;
+    height: 100%;
+    float: left;
+    align-self: center;
+}
+
+.btn {
+    font-family: 'Coda';
+    font-weight: 300;
+    font-size: 0.9rem;
+    width: 6em;
+    margin: 2px;
+}
+
+#links {
     display: flex;
-    background-color: rgb(38,38,38);
+    flex-direction: column;
     flex-wrap: wrap;
-    padding: 100px;
-    height: 100%; /*avoid intersection observer trigger? #TEMP*/   
+    font-family: 'Coda';
+    font-size: 0.9rem;
+    float: right;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    width: 12%;
+    align-items: flex-start;
+    align-content: right;
+    text-align: right;
 }
 
-/*.graveyard > .column {
-    flex: auto;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: rgb(38,38,38);
-    max-width: 33%;
-} style used for the early column format that I used. I'm leaving it commented out for now just in case I want to experiment with it */
+@media (max-width: 900px) {
+    #graveyard {
+        display: grid;
+        grid-template-columns: 100%;
+        background-color: rgb(38,38,38);
+        padding: 50px;
+        padding-top: 50px;
+        padding-bottom: 0px;   
+    }
 
-#graveyard > .nameplate {
-    width: 29%;
-    height: 200px;  /* temporary value to get idea of final product */
-    margin: 25px;
-    color: rgb(38,38,38); /* applies to all text elements in the nameplate, including <hr> (unless overwritten) */
-    background-color: rgb(216,218,190);
-    border: 5px solid red;
-    padding-right: 5px;
+    #graveyard > .nameplate {
+        position: relative;
+        min-width: 90%;
+        min-height: 80%;
+        margin: 25px;
+        color: rgb(38,38,38); /* applies to all text elements in the nameplate, including <hr> (unless overwritten) */
+        background-color: rgb(216,218,190);
+        border: 5px solid rgb(190, 190, 0);
+        border-bottom-color: darkred;
+        padding-right: 5px;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 1440px) {
+    #graveyard {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        background-color: rgb(38,38,38);
+        padding: 50px;
+        padding-top: 50px;
+        padding-bottom: 0px;   
+    }
+
+    #graveyard > .nameplate {
+        position: relative;
+        min-width: 90%;
+        min-height: 80%;
+        margin: 25px;
+        color: rgb(38,38,38); /* applies to all text elements in the nameplate, including <hr> (unless overwritten) */
+        background-color: rgb(216,218,190);
+        border: 5px solid rgb(190, 190, 0);
+        border-bottom-color: darkred;
+        padding-right: 5px;
+    }
+}
+
+@media (min-width: 1440px) {
+    #graveyard {
+        display: grid;
+        grid-template-columns: 33% 33% 33%;
+        background-color: rgb(38,38,38);
+        padding: 50px;
+        padding-top: 50px;
+        padding-bottom: 0px;   
+    }
+
+    #graveyard > .nameplate {
+        position: relative;
+        min-width: 90%;
+        min-height: 80%;
+        margin: 25px;
+        color: rgb(38,38,38); /* applies to all text elements in the nameplate, including <hr> (unless overwritten) */
+        background-color: rgb(216,218,190);
+        border: 5px solid rgb(190, 190, 0);
+        border-bottom-color: darkred;
+        padding-right: 5px;
+    }
 }
 
 .nameplate > .title {
+    font-size: 1rem;
+    font-family: 'Shanti';
+    font-weight: 600;
     text-align: center;
     padding-left: 5px;
     padding-right: 5px;
+    padding-top: 10px;
     padding-bottom: 5px;
 }
 
 .nameplate > .description {
+    font-size: 1rem;
+    font-family: 'Shanti';
+    font-weight: 300;
     width: 100%;
     text-align: center;
     padding-top: 5px;
@@ -84,4 +177,16 @@ p {
     height: 100%;
     aspect-ratio: 0.80; /*good aspect ratio for tall cover arts*/
     padding-right: 5px;
+}
+
+.nameplate > .iconify{
+    position: absolute;
+    bottom: 0.75rem;
+    right: 1rem;
+}
+
+br {                    /* decrease break line height */
+    display: block;
+    content: "";
+    margin-top: 0px;
 }

@@ -3,160 +3,160 @@
         "title":"Super Mario Sunshine",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"Gamecube",
+        "icon":"simple-icons:nintendogamecube",
         "description":"Hey man, this game was pretty cool. Yeah for real though. Yeah for real.",
-        "isAlive": "false",
         "soldFor": "$2.22"
     },
     {
         "title":"F-Zero GX",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"Gamecube",
+        "icon":"simple-icons:nintendogamecube",
         "description":"fast zoom game go zoom game boost",
-        "isAlive": "false",
         "soldFor": "$2.22"
     },
     {
         "title":"hey",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"Wii U",
+        "icon":"simple-icons:wiiu",
         "description":"hey",
-        "isAlive": "false",
         "soldFor": "$2.22"
     },
     {
         "title":"Contra III: The Alien Wars",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"Gamecube",
+        "icon":"simple-icons:nintendogamecube",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"Skyrim",
         "image":"https://github.com/RabbitOTM/video-game-memorial/blob/master/src/covers/Skyrim.jpg?raw=true",
-        "platform":"PC",
+        "platform":"PS1",
+        "icon":"simple-icons:playstation",
         "description":"11/11/11",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"6",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"Gamecube",
+        "icon":"simple-icons:nintendogamecube",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"7",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"Gamecube",
+        "icon":"simple-icons:nintendogamecube",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"8",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"PS2",
+        "icon":"simple-icons:playstation2",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"9",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"PS2",
+        "icon":"simple-icons:playstation2",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"10",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"PS2",
+        "icon":"simple-icons:playstation2",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"11",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"3DS",
+        "icon":"simple-icons:nintendo3ds",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"12",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"3DS",
+        "icon":"simple-icons:nintendo3ds",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"13",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"3DS",
+        "icon":"simple-icons:nintendo3ds",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"14",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"Gamecube",
+        "icon":"simple-icons:nintendogamecube",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"15",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
-        "platform":"Gamecube",
+        "platform":"Wii",
+        "icon":"simple-icons:nintendowii",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"16",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
-        "platform":"Gamecube",
-        "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
+        "platform":"Switch",
+        "icon":"simple-icons:nintendoswitch",
+        "description":"Poggers.",
         "soldFor": "$0"
     },
     {
         "title":"17",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
-        "platform":"Gamecube",
+        "platform":"DS",
+        "icon":"whh:nintendods",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"18",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
         "platform":"Gamecube",
+        "icon":"simple-icons:nintendogamecube",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"19",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
-        "platform":"Gamecube",
+        "platform":"PS3",
+        "icon":"simple-icons:playstation3",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     },
     {
         "title":"20",
         "image":"https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg",
-        "platform":"Gamecube",
+        "platform":"PS4",
+        "icon":"simple-icons:playstation4",
         "description":"Fun game. Played it a ton as a kid. My experience of an arcade.",
-        "isAlive": "true",
         "soldFor": "$0"
     }
 ]

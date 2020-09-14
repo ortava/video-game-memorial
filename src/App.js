@@ -19,9 +19,9 @@ export default function App() {
         ref={setRef}                                     // this div is our Intersection Observer's target
         style={{height: '10vh'}}
       >
-        <h1
-        style={{
-        }}>You've reached the end. Congratulations!</h1>
+        <h1>You've reached the end.</h1>
+        <br></br>
+        <h1>Congratulations!</h1>
       </div>
     </div>
   );

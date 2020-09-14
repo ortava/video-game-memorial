@@ -17,6 +17,13 @@ export default function setButtons(){
     btns[i].addEventListener("click", setPlatform.bind(null, btns[i].id), false);  // set the platform
     btns[i].addEventListener("click", loadData.bind(null, btns[i].id), false);     // load data for the given platform (defined by its id)
   }
+
+  //const btns = document.getElementById('platforms');      // get dropdown menu selections in toolbar
+
+  /*for (var i = 0; i < btns.length; i++){                                           // when each button is clicked
+    btns[i].addEventListener("click", setPlatform.bind(null, btns[i].id), false);  // set the platform
+    btns[i].addEventListener("click", loadData.bind(null, btns[i].id), false);     // load data for the given platform (defined by its id)
+  }*/
 }
 
 export function loadData(platform) {
@@ -74,7 +81,7 @@ export function generateNameplates(data, indexRangeBottom, indexRangeTop){
         output += "<div class='nameplate'>"+
         "<img src='"+data[i].image+"' alt='Video Game' ";
   
-        if(data[i].console === ("SNES" || "DS" || "3DS" || "PS1")){
+        if(data[i].platform === ("SNES" || "DS" || "3DS" || "PS1")){
         output += "width='160' height='200'/><br>";                    // to do: change small cover width & height/aspect ratio here #TEMP
         }
         else
@@ -82,6 +89,10 @@ export function generateNameplates(data, indexRangeBottom, indexRangeTop){
   
         output += "<div class='title'>"+data[i].title+"</div><hr>" +     
         "<div class='description'>"+data[i].description+"</div>" +
+
+        "<span class='iconify' data-icon='"+data[i].icon +"'" +
+        "data-inline='false' data-width='50px' data-height='50px'></span>" +
+
         "</div>";                
     }      
 
@@ -103,7 +114,7 @@ function sortData(data, platform){
   var currentLength = data.length;
 
   for (var i = 0; i < currentLength; i++){
-    if (data[i].console !== platform){              // change console parameter to platform after updating json file on github. #TEMP
+    if (data[i].platform !== platform){             // if this entry is not from the specified platform
       data.splice(i,1);                             // delete this entry in the data
       currentLength = data.length;                  // update the current length of the data
       i = i - 1;                                    // adjust the element according to new data length
