@@ -81,8 +81,8 @@ export function generateNameplates(data, indexRangeBottom, indexRangeTop){
         output += "<div class='nameplate'>"+
         "<img src='"+data[i].image+"' alt='Video Game' ";
   
-        if(data[i].platform === ("SNES" || "DS" || "3DS" || "PS1")){
-        output += "width='160' height='200'/><br>";                    // to do: change small cover width & height/aspect ratio here #TEMP
+        if(data[i].platform === ("DS" || "3DS" || "PS1")){
+        output += "width='160' height='160'/><br>";                    // to do: change small cover width & height/aspect ratio here #TEMP
         }
         else
         output += "width='160' height='200'}/><br>"; 
