@@ -6,7 +6,7 @@ import React, { useEffect, useState } from 'react'
 import { index, dataLength, currentPlatform, loadData } from './nameplates.js'
 
 export default function App() {
-  const [setRef, isIntersecting] = useOnScreen(document.getElementById('body'), '100px', 0);
+  const [setRef, isIntersecting] = useOnScreen(document.getElementById('body'), '250px', 0);
 
   if ((index !== dataLength) && isIntersecting) {        // if there is more data to be loaded and the target is being intersected
     loadData(currentPlatform);                           // load more data for the selected platform
