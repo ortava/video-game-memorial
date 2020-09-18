@@ -116,7 +116,7 @@
         "image":"https://www.mobygames.com/images/covers/l/34723-the-legend-of-zelda-four-swords-adventures-gamecube-front-cover.jpg",
         "platform":"Gamecube",
         "icon":"simple-icons:nintendogamecube",
-        "description":"Four heroes of time one adventure."
+        "description":"Four heroes of time, one adventure."
     },
     {
         "title":"Dark Cloud 2",
@@ -186,7 +186,7 @@
         "image":"https://www.mobygames.com/images/covers/l/23745-resident-evil-0-gamecube-front-cover.jpg",
         "platform":"Gamecube",
         "icon":"simple-icons:nintendogamecube",
-        "description":"The train sequence was good... and then the bug attacked."
+        "description":"The train sequence was good... and then the bugs attacked. And the monkeys. There are zombies in this game?"
     },
     {
         "title":"Freekstyle",
@@ -257,13 +257,6 @@
         "platform":"Wii U",
         "icon":"mdi:nintendo-wiiu",
         "description":"It's The Wind Waker... but in HD! The new orchestral soundtrack makes it worth the existence."
-    },
-    {
-        "title":"God of War (2018)",
-        "image":"https://www.mobygames.com/images/covers/l/313186-the-legend-of-zelda-the-wind-waker-wii-u-front-cover.jpg",
-        "platform":"PS4",
-        "icon":"simple-icons:playstation4",
-        "description":"This game took the rage-filled god-killer Kratos and let us watch him become a responsible father."
     },
     {
         "title":"Dragon's Lair 3D: Return to the Lair",
@@ -473,7 +466,7 @@
         "image":"https://www.mobygames.com/images/covers/l/49194-donkey-kong-jungle-beat-gamecube-front-cover.jpg",
         "platform":"Gamecube",
         "icon":"simple-icons:nintendogamecube",
-        "description":"Bongo peripherals came with this game. A fun game, but after hours of hitting the bongos to the beat, my hands were destroyed."
+        "description":"Bongo peripherals included. A fun game, but after hours of hitting the bongos to the beat, my hands were destroyed."
     },
     {
         "title":"Prince of Persia: The Sands of Time",
@@ -519,7 +512,7 @@
     },
     {
         "title":"Pokemon Dash",
-        "image":"https://www.mobygames.com/game/nintendo-ds/pokmon-dash/cover-art/gameCoverId,252560/",
+        "image":"https://www.mobygames.com/images/covers/l/252560-pokemon-dash-nintendo-ds-front-cover.jpg",
         "platform":"DS",
         "icon":"whh:nintendods",
         "description":"Pokemon Dash to the polls."
@@ -683,7 +676,35 @@
         "image":"https://www.mobygames.com/images/covers/l/464132-pokemon-mystery-dungeon-explorers-of-time-nintendo-ds-front-cover.jpg",
         "platform":"DS",
         "icon":"whh:nintendods",
-        "description":"Not a traditional Pokemon game, but the story and large number of Pokemon RPG-companions kept me engaged."
+        "description":"Not a traditional Pokemon game, but the story and multitude of Pokemon RPG-companions kept me engaged."
+    },
+    {
+        "title":"Monster Hunter 4: Ultimate",
+        "image":"https://www.mobygames.com/images/covers/l/457696-monster-hunter-4-ultimate-nintendo-3ds-front-cover.jpg",
+        "platform":"3DS",
+        "icon":"simple-icons:nintendo3ds",
+        "description":"My first Monster Hunter game. It was good, but has an overwhelming learning curve."
+    },
+    {
+        "title":"Animal Crossing: New Leaf",
+        "image":"https://www.mobygames.com/images/covers/l/307175-animal-crossing-new-leaf-nintendo-3ds-front-cover.jpg",
+        "platform":"3DS",
+        "icon":"simple-icons:nintendo3ds",
+        "description":"The first Animal Crossing game to let you substantially edit your town."
+    },
+    {
+        "title":"Rhythm Heaven Megamix",
+        "image":"https://www.mobygames.com/images/covers/l/441817-rhythm-heaven-megamix-nintendo-3ds-front-cover.jpg",
+        "platform":"3DS",
+        "icon":"simple-icons:nintendo3ds",
+        "description":"Wubba-dubba-dub, is that true?"
+    },
+    {
+        "title":"Mario & Luigi: Partners in Time",
+        "image":"https://www.mobygames.com/images/covers/l/55305-mario-luigi-partners-in-time-nintendo-ds-front-cover.jpg",
+        "platform":"DS",
+        "icon":"whh:nintendods",
+        "description":"A game borrowed between me and my elementary school friend. I don't remember who it belonged to, but it got lost. :("
     },
     {
         "title":"007: Nightfire",

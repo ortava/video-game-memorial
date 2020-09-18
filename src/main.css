@@ -3,9 +3,9 @@
 
 body {
     height: 100%;
+    width: 100%;
     margin: 0;
     text-align: center;
-    width: 100%;
     background-color: rgb(38,38,38);
     overflow-x: hidden;
 }
@@ -28,18 +28,19 @@ p {
     font-size: 1rem;
     font-family: 'Coda', 'Courier New';
     color: rgb(216,218,190);
+    margin-top: 5rem;
 }
 
 #toolbar {
     display: flex;
     flex-direction: columns;
+    position: -webkit-sticky;   /*for Safari browser*/
+    position: sticky;
+    top: 0;
     width: auto;
     font-size: 1rem;
     font-family: 'Coda';
     font-weight: 400;
-    position: -webkit-sticky;   /*for Safari browser*/
-    position: sticky;
-    top: 0;
     background-color: rgba(190, 190, 0, 0.950);
     padding: 25px;
     padding-bottom: 10px;
@@ -68,12 +69,12 @@ p {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    width: auto;
     font-family: 'Coda';
     font-size: 0.9rem;
     float: right;
     margin-bottom: 0px;
     margin-right: 0px;
-    width: auto;
     align-items: flex-end;
     align-content: right;
     text-align: right;
@@ -85,7 +86,7 @@ p {
         grid-template-columns: 100%;
         background-color: rgb(38,38,38);
         padding: 10px;
-        padding-top: 50px;
+        padding-top: 30px;
         padding-bottom: 0px;   
     }
 
@@ -94,23 +95,29 @@ p {
         min-width: 240px;
         min-height: 200px;
         max-height: 90%;
-        font-size: 0.9rem;
+        font-size: 0.8rem;
+        background-color: rgb(216,218,190);
+        border: 5px solid darkred;
         margin-top: 25px;
         margin-bottom: 25px;
-        color: rgb(38,38,38); 
-        background-color: rgb(216,218,190);
-        border: 5px solid rgb(190, 190, 0);
-        border-bottom-color: darkred;
         padding-right: 5px;
+        color: rgb(38,38,38); 
     }
 
     .nameplate > img {
         float: left;
-        width: auto;
+        width: 50%;
         max-height: 240px;
-        max-width: 50%;
-        aspect-ratio: 0.80; /*good aspect ratio for tall cover arts*/
+        max-width: 180px;
         padding-right: 5px;
+    }
+
+    .nameplate > .iconify{
+        position: absolute;
+        bottom: 0.75rem;
+        right: 1rem;
+        width: 40px;
+        height: 40px;
     }
 
     h1 {
@@ -125,19 +132,18 @@ p {
         background-color: rgb(38,38,38);
         width: 100%;
         padding: 0px;
-        padding-top: 50px;
+        padding-top: 30px;
         padding-bottom: 0px;   
     }
 
     #graveyard > .nameplate {
         position: relative;
-        min-width: 90%;
-        min-height: 80%;
-        margin: 25px;
-        color: rgb(38,38,38); 
+        min-width: 240px;
+        min-height: 200px;
         background-color: rgb(216,218,190);
-        border: 5px solid rgb(190, 190, 0);
-        border-bottom-color: darkred;
+        color: rgb(38,38,38); 
+        border: 5px solid darkred;
+        margin: 25px;
         padding-right: 5px;
     }
 }
@@ -147,21 +153,29 @@ p {
         display: grid;
         grid-template-columns: 50% 50%;
         background-color: rgb(38,38,38);
-        padding: 50px;
-        padding-top: 50px;
+        padding: 25px;
+        padding-top: 30px;
         padding-bottom: 0px;   
     }
 
     #graveyard > .nameplate {
         position: relative;
         min-width: 90%;
-        min-height: 80%;
-        margin: 25px;
-        color: rgb(38,38,38); 
+        max-height: 225px;
+        font-size: 0.95rem;
         background-color: rgb(216,218,190);
-        border: 5px solid rgb(190, 190, 0);
-        border-bottom-color: darkred;
+        color: rgb(38,38,38); 
+        border: 5px solid darkred;
+        margin: 25px;
         padding-right: 5px;
+    }
+
+    .nameplate > .iconify{
+        position: absolute;
+        bottom: 0.75rem;
+        right: 1rem;
+        width: 45px;
+        height: 45px;
     }
 }
 
@@ -171,7 +185,7 @@ p {
         grid-template-columns: 33% 33% 33%;
         background-color: rgb(38,38,38);
         padding: 50px;
-        padding-top: 50px;
+        padding-top: 30px;
         padding-bottom: 0px;   
     }
 
@@ -179,12 +193,11 @@ p {
         position: relative;
         min-width: 90%;
         min-height: 80%;
-        margin: 25px;
         color: rgb(38,38,38); 
         background-color: rgb(216,218,190);
-        border: 5px solid rgb(190, 190, 0);
-        border-bottom-color: darkred;
+        border: 5px solid darkred;
         padding-right: 5px;
+        margin: 25px;
     }
 }
 
@@ -213,10 +226,9 @@ p {
 
 .nameplate > img {
     float: left;
-    flex-basis: 5em;
     object-fit: fill;
-    height: 100%;
-    aspect-ratio: 0.80; /*good aspect ratio for tall cover arts*/
+    max-width: 180px;
+    min-height: 100%;
     padding-right: 5px;
 }
 

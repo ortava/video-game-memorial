@@ -17,13 +17,6 @@ export default function setButtons(){
     btns[i].addEventListener("click", setPlatform.bind(null, btns[i].id), false);  // set the platform
     btns[i].addEventListener("click", loadData.bind(null, btns[i].id), false);     // load data for the given platform (defined by its id)
   }
-
-  //const btns = document.getElementById('platforms');      // get dropdown menu selections in toolbar
-
-  /*for (var i = 0; i < btns.length; i++){                                           // when each button is clicked
-    btns[i].addEventListener("click", setPlatform.bind(null, btns[i].id), false);  // set the platform
-    btns[i].addEventListener("click", loadData.bind(null, btns[i].id), false);     // load data for the given platform (defined by its id)
-  }*/
 }
 
 export function loadData(platform) {
@@ -62,7 +55,8 @@ export function loadData(platform) {
         if (indexRangeTop <= data.length){
           generateNameplates(data, indexRangeBottom, indexRangeTop)       // append new batch of nameplate html to output
         }
-        newPlatform = false;                          // this is no longer a new platform         
+
+        newPlatform = false;                          // data has already been loaded, so this is no longer a new platform         
     }
   }
   xhr.send();                                         // send HTTP request
@@ -81,11 +75,7 @@ export function generateNameplates(data, indexRangeBottom, indexRangeTop){
         output += "<div class='nameplate'>"+
         "<img src='"+data[i].image+"' alt='Video Game' ";
   
-        if(data[i].platform === ("DS" || "3DS" || "PS1")){
-        output += "width='160' height='160'/><br>";                    // to do: change small cover width & height/aspect ratio here #TEMP
-        }
-        else
-        output += "width='160' height='200'}/><br>"; 
+        output += "width='180px' height='225px'}/><br>"; 
   
         output += "<div class='title'>"+data[i].title+"</div><hr>" +     
         "<div class='description'>"+data[i].description+"</div>" +
@@ -93,7 +83,7 @@ export function generateNameplates(data, indexRangeBottom, indexRangeTop){
         "<span class='iconify' data-icon='"+data[i].icon +"'" +
         "data-inline='false' data-width='50px' data-height='50px'></span>" +
 
-        "</div>";                
+        "</div>";         
     }      
 
     document.getElementById("graveyard").innerHTML += output;          // send html to the div with id="graveyard"
@@ -102,7 +92,7 @@ export function generateNameplates(data, indexRangeBottom, indexRangeTop){
 // set the current platform based on the button pressed
   function setPlatform(platform){
     if (currentPlatform !== platform){ // if the user hasn't pressed the same button
-      newPlatform = true;              // a button has been pressed, so th  
+      newPlatform = true;              // a new button has been pressed
     }
     
     currentPlatform = platform;        // this is the new current platform
@@ -117,7 +107,7 @@ function sortData(data, platform){
     if (data[i].platform !== platform){             // if this entry is not from the specified platform
       data.splice(i,1);                             // delete this entry in the data
       currentLength = data.length;                  // update the current length of the data
-      i = i - 1;                                    // adjust the element according to new data length
+      i = i - 1;                                    // adjust the element index according to new data length
     }
   }
 

@@ -12,7 +12,7 @@ export default function App() {
     loadData(currentPlatform);                           // load more data for the selected platform
   }  
 
-  return (                                               // HTML indicating that we've reached the bottom of the page
+  return (                                               // return HTML indicating that we've reached the bottom of the page (this is rendered at the bottom of the page)
     <div>
       <div style={{ height: '5vh'}}></div>
       <div
@@ -27,7 +27,7 @@ export default function App() {
   );
 }
 
-// Hook
+// React Hook
 function useOnScreen(root, rootMargin, threshold) {
   
   const [ref, setRef] = useState(null);                       // state and setter for storing current ref
