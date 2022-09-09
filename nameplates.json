@@ -18,7 +18,7 @@
         "image":"https://www.mobygames.com/images/covers/l/13639-super-smash-bros-melee-gamecube-front-cover.jpg",
         "platform":"Gamecube",
         "icon":"simple-icons:nintendogamecube",
-        "description":"The first game that I ever played. You couldn't find a kid that didn't play it."
+        "description":"The first game that I ever played. It was hard to find a kid that didn't play it."
     },
     {
         "title":"Viewtiful Joe",
@@ -67,7 +67,7 @@
         "image":"https://www.mobygames.com/images/covers/l/189490-super-mario-galaxy-2-wii-front-cover.png",
         "platform":"Wii",
         "icon":"mdi:nintendo-wii",
-        "description":"This game embraced the course-based design unlike its predecessor, leading to a more focused experience."
+        "description":"Unlike its predecessor, this game embraced course-based design. It was a more focused experience."
     },
     {
         "title":"Advance Wars: Days of Ruin",
@@ -88,7 +88,7 @@
         "image":"https://www.mobygames.com/images/covers/l/242460-pokemon-xd-gale-of-darkness-gamecube-front-cover.jpg",
         "platform":"Gamecube",
         "icon":"simple-icons:nintendogamecube",
-        "description":"Carried a dark tone and setting for a Pokemon game, and was memorable for it."
+        "description":"Memorable for its dark tone and setting as a Pokemon game."
     },
     {
         "title":"Mortal Kombat: Shaolin Monks",
@@ -123,7 +123,7 @@
         "image":"https://www.mobygames.com/images/covers/l/41151-dark-cloud-2-playstation-2-front-cover.jpg",
         "platform":"PS2",
         "icon":"simple-icons:playstation2",
-        "description":"This belonged to my sister, so I made sure not to play it."
+        "description":"This belonged to my sister. It was cool, but she didn't like it that much."
     },
     {
         "title":"New Super Mario Bros. U",
@@ -158,7 +158,7 @@
         "image":"https://www.mobygames.com/images/covers/l/84967-super-paper-mario-wii-front-cover.jpg",
         "platform":"Wii",
         "icon":"mdi:nintendo-wii",
-        "description":"Less RPG, more engaging story, characters, and world."
+        "description":"Less RPG; more engaging story, characters, and world."
     },
     {
         "title":"Astral Chain",
@@ -326,7 +326,7 @@
         "image":"https://www.mobygames.com/images/covers/l/20831-nba-street-vol-2-playstation-2-front-cover.jpg",
         "platform":"PS2",
         "icon":"simple-icons:playstation2",
-        "description":"Now this was a fun take on the \"hardcore\" sports trend of the mid-2000s."
+        "description":"This was a fun take on the \"hardcore\" sports trend of the mid-2000s."
     },
     {
         "title":"Super Mario All-Stars Limited Edition",
@@ -347,7 +347,7 @@
         "image":"https://www.mobygames.com/images/covers/l/67085-street-fighter-alpha-3-playstation-front-cover.jpg",
         "platform":"PS1",
         "icon":"simple-icons:playstation",
-        "description":"I sucked at fighting game as a child. I suck at fighting games as an adult."
+        "description":"I sucked at fighting games as a child. I suck at fighting games as an adult."
     },
     {
         "title":"Oddworld: Abe's Oddysee",
@@ -550,7 +550,7 @@
         "image":"https://www.mobygames.com/images/covers/l/31630-the-hobbit-gamecube-front-cover.jpg",
         "platform":"Gamecube",
         "icon":"simple-icons:nintendogamecube",
-        "description":"If I could live in Hobbiton, I would. Even if I had to be a small hairy-footed hobbit."
+        "description":"If I could live in Hobbiton, I would."
     },
     {
         "title":"True Crime: Streets of LA",
@@ -634,21 +634,21 @@
         "image":"https://www.mobygames.com/images/covers/l/119172-destroy-all-humans-2-playstation-2-front-cover.png",
         "platform":"PS2",
         "icon":"simple-icons:playstation2",
-        "description":"Just in case the first time wasn't thorough enough."
+        "description":"Just in case you missed a few."
     },
     {
         "title":"Peter Jackson's King Kong: The Official Game of the Movie",
         "image":"https://www.mobygames.com/images/covers/l/87545-peter-jackson-s-king-kong-the-official-game-of-the-movie-gamecube-front-cover.jpg",
         "platform":"Gamecube",
         "icon":"simple-icons:nintendogamecube",
-        "description":"A surprisingly good game for a movie tie-in. Higher quality than the movie. Also giant centipedes are scary."
+        "description":"A surprisingly good game for a movie tie-in. Giant centipedes are scary."
     },
     {
         "title":"Marvel Nemesis: Rise of the Imperfects",
         "image":"https://www.mobygames.com/images/covers/l/236254-marvel-nemesis-rise-of-the-imperfects-playstation-2-front-cover.jpg",
         "platform":"PS2",
         "icon":"simple-icons:playstation2",
-        "description":"I actually played the PSP version more. Both version were extremely difficult as a kid...  and probably still are."
+        "description":"I actually played the PSP version more. Both versions were extremely difficult as a kid...  and probably still are."
     },
     {
         "title":"Jak II",
@@ -683,7 +683,7 @@
         "image":"https://www.mobygames.com/images/covers/l/457696-monster-hunter-4-ultimate-nintendo-3ds-front-cover.jpg",
         "platform":"3DS",
         "icon":"simple-icons:nintendo3ds",
-        "description":"My first Monster Hunter game. It was good, but has an overwhelming learning curve."
+        "description":"My first Monster Hunter game. It was good, but it has an overwhelming learning curve."
     },
     {
         "title":"Animal Crossing: New Leaf",
