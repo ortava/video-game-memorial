@@ -73,7 +73,7 @@ export function generateNameplates(data, indexRangeBottom, indexRangeTop){
   
     for(var i = indexRangeBottom; i < indexRangeTop; i++){
         output += "<div class='nameplate'>"+
-        "<img src='"+data[i].image+"' alt='Video Game' ";
+        "<img src='/covers/"+data[i].image+"' alt='Video Game' ";
   
         output += "width='180px' height='225px'}/><br>"; 
   

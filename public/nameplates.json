@@ -1,21 +1,21 @@
 [
    {
         "title":"The Legend of Zelda: Skyward Sword",
-        "image":"https://www.mobygames.com/images/covers/l/241998-the-legend-of-zelda-skyward-sword-wii-front-cover.jpg",
+        "image":"hey.png",
         "platform":"Wii",
         "icon":"mdi:nintendo-wii",
         "description":"\"It's time we conclude our necessary companionship.\""
     },
     {
         "title":"F-Zero GX",
-        "image":"https://www.mobygames.com/images/covers/l/24195-f-zero-gx-gamecube-front-cover.jpg",
+        "image":"fzerogx.png",
         "platform":"Gamecube",
         "icon":"simple-icons:nintendogamecube",
         "description":"You got boost power!"
     },
     {
         "title":"Super Smash Bros. Melee",
-        "image":"https://www.mobygames.com/images/covers/l/13639-super-smash-bros-melee-gamecube-front-cover.jpg",
+        "image":"supermariosunshine.jpg",
         "platform":"Gamecube",
         "icon":"simple-icons:nintendogamecube",
         "description":"The first game that I ever played. It was hard to find a kid that didn't play it."
