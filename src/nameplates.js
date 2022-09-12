@@ -26,7 +26,7 @@ export function loadData(platform) {
 
   // note that one could host this file a number of different ways.
   xhr.open('GET',                                                                                        // retrieve data from json file.
-          'https://raw.githubusercontent.com/RabbitOTM/RabbitOTM.github.io/master/nameplates.json',      // this is the link to the json file via github.
+          'nameplates.json',
           true);                                                                                         // this is an asynchronous request
   
   xhr.onload = function(){                            // this function runs after loadData() and App() are done because this is an async request
