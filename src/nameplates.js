@@ -3,6 +3,8 @@
 //          Keeps track of which console's data to use and how much of the data has been sent to the webpage using index.
 //          Sets button functionality to sort for the console specified by the user.
 
+import json from './nameplates.json';
+
 // global variables 
 export var index = 0;                                 // keeps track of how much data has been sent to the webpage
 export var dataLength;                                // length of the data in use
@@ -24,14 +26,16 @@ export function loadData(platform) {
   var indexRangeBottom;                               // the bottom of the range of elements to be generated from the json file.
   var indexRangeTop;                                  // the top of the range of elements to be generated from the json file.
 
-  // note that one could host this file a number of different ways.
+  // Open an XMLHttpRequest.
+  //  (In this build, nameplates.json is only used as an imported file through JavaScript.
+  //  However, an XMLHttpRequest still needs to be opened in order to accomodate the AJAX functionality.)
   xhr.open('GET',                                                                                        // retrieve data from json file.
           'nameplates.json',
           true);                                                                                         // this is an asynchronous request
   
   xhr.onload = function(){                            // this function runs after loadData() and App() are done because this is an async request
     if(this.status === 200){
-        var data = JSON.parse(xhr.responseText);      // store the data from the json file
+        var data = JSON.parse(JSON.stringify(json));      // store the data from the json file
 
         if (platform !== 'Default'){                  // if a button has been clicked
           if (newPlatform){
@@ -73,7 +77,7 @@ export function generateNameplates(data, indexRangeBottom, indexRangeTop){
   
     for(var i = indexRangeBottom; i < indexRangeTop; i++){
         output += "<div class='nameplate'>"+
-        "<img src='/covers/"+data[i].image+"' alt='Video Game' ";
+        "<img src='"+process.env.PUBLIC_URL+"/covers/"+data[i].image+"' alt='Video Game' ";
   
         output += "width='180px' height='225px'}/><br>"; 
   
@@ -84,7 +88,9 @@ export function generateNameplates(data, indexRangeBottom, indexRangeTop){
         "data-inline='false' data-width='50px' data-height='50px'></span>" +
 
         "</div>";         
-    }      
+    }
+    
+    console.log(output);
 
     document.getElementById("graveyard").innerHTML += output;          // send html to the div with id="graveyard"
   }
