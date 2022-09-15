@@ -1,728 +1,728 @@
 [
 	{
 		"title": "The Legend of Zelda: Skyward Sword",
-		"image": "The Legend of Zelda Skyward Sword.png",
+		"image": "The Legend of Zelda Skyward Sword.jpg",
 		"platform": "Wii",
 		"icon": "mdi:nintendo-wii",
 		"description": "\"It's time we conclude our necessary companionship.\""
 	},
 	{
 		"title": "F-Zero GX",
-		"image": "F-Zero GX.png",
+		"image": "F-Zero GX.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "You got boost power!"
 	},
 	{
 		"title": "Super Smash Bros. Melee",
-		"image": "Super Smash Bros. Melee.png",
+		"image": "Super Smash Bros. Melee.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "The first game that I ever played. It was hard to find a kid that didn't play it."
 	},
 	{
 		"title": "Viewtiful Joe",
-		"image": "Viewtiful Joe.png",
+		"image": "Viewtiful Joe.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Just go for it!"
 	},
 	{
 		"title": "Viewtiful Joe 2",
-		"image": "Viewtiful Joe 2.png",
+		"image": "Viewtiful Joe 2.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "Just go for it!... again."
 	},
 	{
 		"title": "Scooby-Doo Night of 100 Frights",
-		"image": "Scooby-Doo Night of 100 Frights.png",
+		"image": "Scooby-Doo Night of 100 Frights.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "We've all wanted to try a Scooby-Snack... right?"
 	},
 	{
 		"title": "Rayman 3: Hoodlum Havoc",
-		"image": "Rayman 3 Hoodlum Havoc.png",
+		"image": "Rayman 3 Hoodlum Havoc.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Rayman's attempt at being cool. As a kid... it was kind of cool."
 	},
 	{
 		"title": "Mario Party 8",
-		"image": "Mario Party 8.png",
+		"image": "Mario Party 8.jpg",
 		"platform": "Wii",
 		"icon": "mdi:nintendo-wii",
 		"description": "Flick Wii remote = Win. That didn't stop my friends and I from having fun."
 	},
 	{
 		"title": "Super Mario Galaxy",
-		"image": "Super Mario Galaxy.png",
+		"image": "Super Mario Galaxy.jpg",
 		"platform": "Wii",
 		"icon": "mdi:nintendo-wii",
 		"description": "Contains music that will be engrained into my head forever. A highly enjoyable game too, I suppose."
 	},
 	{
 		"title": "Super Mario Galaxy 2",
-		"image": "Super Mario Galaxy 2.png",
+		"image": "Super Mario Galaxy 2.jpg",
 		"platform": "Wii",
 		"icon": "mdi:nintendo-wii",
 		"description": "Unlike its predecessor, this game embraced course-based design. It was a more focused experience."
 	},
 	{
 		"title": "Advance Wars: Days of Ruin",
-		"image": "Advance Wars Days of Ruin.png",
+		"image": "Advance Wars Days of Ruin.jpg",
 		"platform": "DS",
 		"icon": "whh:nintendods",
 		"description": "My first foray into strategy games. At ~10 years old, I was pretty bad."
 	},
 	{
 		"title": "Pokemon Battle Revolution",
-		"image": "Pokemon Battle Revolution.png",
+		"image": "Pokemon Battle Revolution.jpg",
 		"platform": "Wii",
 		"icon": "mdi:nintendo-wii",
 		"description": "Regular Pokemon Battles. No revolution here."
 	},
 	{
 		"title": "Pokemon XD: Gale of Darkness",
-		"image": "Pokemon XD Gale of Darkness.png",
+		"image": "Pokemon XD Gale of Darkness.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Memorable for its dark tone and setting as a Pokemon game."
 	},
 	{
 		"title": "Mortal Kombat: Shaolin Monks",
-		"image": "Mortal Kombat Shaolin Monks.png",
+		"image": "Mortal Kombat Shaolin Monks.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "Lots of fun memories trying to beat this with my sister."
 	},
 	{
 		"title": "Wario World",
-		"image": "Wario World.png",
+		"image": "Wario World.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "A well-made platformer for Mario's greedy nemesis."
 	},
 	{
 		"title": "NFL Street",
-		"image": "NFL Street.png",
+		"image": "NFL Street.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "An attempt by the NFL and EA to be \"hardcore\". 90's kids love it!"
 	},
 	{
 		"title": "The Legend of Zelda: Four Swords Adventures",
-		"image": "The Legend of Zelda Four Swords Adventures.png",
+		"image": "The Legend of Zelda Four Swords Adventures.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Four heroes of time, one adventure."
 	},
 	{
 		"title": "Dark Cloud 2",
-		"image": "Dark Cloud 2.png",
+		"image": "Dark Cloud 2.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "This belonged to my sister. It was cool, but she didn't like it that much."
 	},
 	{
 		"title": "New Super Mario Bros. U",
-		"image": "New Super Mario Bros. U.png",
+		"image": "New Super Mario Bros. U.jpg",
 		"platform": "Wii U",
 		"icon": "mdi:nintendo-wiiu",
 		"description": "This is a Mario game. Yes, that's right. A Mario game. Could you tell?"
 	},
 	{
 		"title": "Animal Crossing: City Folk",
-		"image": "Animal Crossing City Folk.png",
+		"image": "Animal Crossing City Folk.jpg",
 		"platform": "Wii",
 		"icon": "mdi:nintendo-wii",
 		"description": "Not the most exciting Animal Crossing, but worth it for the music alone."
 	},
 	{
 		"title": "Bayonetta 2",
-		"image": "Bayonetta 2.png",
+		"image": "Bayonetta 2.jpg",
 		"platform": "Wii U",
 		"icon": "mdi:nintendo-wiiu",
 		"description": "Bayonetta but with an annoying escort mission here and there. Still a great game."
 	},
 	{
 		"title": "The Legend of Zelda: Wind Waker",
-		"image": "The Legend of Zelda Wind Waker.png",
+		"image": "The Legend of Zelda Wind Waker.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "My favorite Legend of Zelda world. The art style is timeless."
 	},
 	{
 		"title": "Super Paper Mario",
-		"image": "Super Paper Mario.png",
+		"image": "Super Paper Mario.jpg",
 		"platform": "Wii",
 		"icon": "mdi:nintendo-wii",
 		"description": "Less RPG; more engaging story, characters, and world."
 	},
 	{
 		"title": "Astral Chain",
-		"image": "Astral Chain.png",
+		"image": "Astral Chain.jpg",
 		"platform": "Switch",
 		"icon": "simple-icons:nintendoswitch",
 		"description": "An action game that's all about world building. The police station music is a complete jam."
 	},
 	{
 		"title": "Soul Calibur II",
-		"image": "Soul Calibur II.png",
+		"image": "Soul Calibur II.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Wait, you can play as Link? This Voldo guy is weird."
 	},
 	{
 		"title": "Kirby Air Ride",
-		"image": "Kirby Air Ride.png",
+		"image": "Kirby Air Ride.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Never played the main game because me and my sister loved Freeride mode so much."
 	},
 	{
 		"title": "Resident Evil 0",
-		"image": "Resident Evil 0.png",
+		"image": "Resident Evil 0.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "The train sequence was good... and then the bugs attacked. And the monkeys. There are zombies in this game?"
 	},
 	{
 		"title": "Freekstyle",
-		"image": "Freekstyle.png",
+		"image": "Freekstyle.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "It's freeky freeky, but why not freaky freaky?"
 	},
 	{
 		"title": "The Legend of Zelda: Breath of the Wild",
-		"image": "The Legend of Zelda Breath of the Wild.png",
+		"image": "The Legend of Zelda Breath of the Wild.jpg",
 		"platform": "Switch",
 		"icon": "simple-icons:nintendoswitch",
 		"description": "A modern take on the original Legend of Zelda on NES. Each player will come away from this game with a different story to tell."
 	},
 	{
 		"title": "Resident Evil (REmake)",
-		"image": "Resident Evil (REmake).png",
+		"image": "Resident Evil (REmake).jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "I was afraid to touch the box for this game as a kid because I thought it was cursed..."
 	},
 	{
 		"title": "Super Smash Bros. Ultimate",
-		"image": "Super Smash Bros. Ultimate.png",
+		"image": "Super Smash Bros. Ultimate.jpg",
 		"platform": "Switch",
 		"icon": "simple-icons:nintendoswitch",
 		"description": "A celebration of video games."
 	},
 	{
 		"title": "Splatoon 2",
-		"image": "Splatoon 2.png",
+		"image": "Splatoon 2.jpg",
 		"platform": "Switch",
 		"icon": "simple-icons:nintendoswitch",
 		"description": "Spla2oon is the most family friendly shooter I've ever had the pleasure of playing."
 	},
 	{
 		"title": "Super Mario Odyssey",
-		"image": "Super Mario Odyssey.png",
+		"image": "Super Mario Odyssey.jpg",
 		"platform": "Switch",
 		"icon": "simple-icons:nintendoswitch",
 		"description": "Each world is creative and packed with detail. My favorite type of Mario game taken to an extreme."
 	},
 	{
 		"title": "Animal Crossing: New Horizons",
-		"image": "Animal Crossing New Horizons.png",
+		"image": "Animal Crossing New Horizons.jpg",
 		"platform": "Switch",
 		"icon": "simple-icons:nintendoswitch",
 		"description": "Undeniably the best game in my favorite series. It's so good that I had to let it go."
 	},
 	{
 		"title": "Dr. Muto",
-		"image": "Dr. Muto.png",
+		"image": "Dr. Muto.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "I learned what an isotope was from this game. Basically Dr. Muto helped me pass chemistry."
 	},
 	{
 		"title": "Starfox Adventures",
-		"image": "Starfox Adventures.png",
+		"image": "Starfox Adventures.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Not a Starfox game, but it is an adventure game. The graphics blew me away as a kid."
 	},
 	{
 		"title": "The Legend of Zelda: The Wind Waker HD",
-		"image": "The Legend of Zelda The Wind Waker HD.png",
+		"image": "The Legend of Zelda The Wind Waker HD.jpg",
 		"platform": "Wii U",
 		"icon": "mdi:nintendo-wiiu",
 		"description": "It's The Wind Waker... but in HD! The new orchestral soundtrack makes it worth the existence."
 	},
 	{
 		"title": "Dragon's Lair 3D: Return to the Lair",
-		"image": "Dragon's Lair 3D Return to the Lair.png",
+		"image": "Dragon's Lair 3D Return to the Lair.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "I never played this, however it reminds me of Shrek because Shrek and Donkey go to the Dragon's Lair in the movie."
 	},
 	{
 		"title": "I-Ninja",
-		"image": "I-Ninja.png",
+		"image": "I-Ninja.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "I loved this game as a kid. It was very difficult, and it taught me about the Karate belt color system."
 	},
 	{
 		"title": "Marvel vs. Capcom 2",
-		"image": "Marvel vs. Capcom 2.png",
+		"image": "Marvel vs. Capcom 2.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "♫ I wanna take you for a ride. ♫"
 	},
 	{
 		"title": "Blood Omen 2",
-		"image": "Blood Omen 2.png",
+		"image": "Blood Omen 2.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "My sister enjoyed this game. It scared me a bit as a kid, then Twilight came out and made vampires un-scary again."
 	},
 	{
 		"title": "Pokemon: SoulSilver Version",
-		"image": "Pokemon SoulSilver Version.png",
+		"image": "Pokemon SoulSilver Version.jpg",
 		"platform": "DS",
 		"icon": "whh:nintendods",
 		"description": "A remake of Generation 2 Pokemon games. Chikorita is the cutest starter pokemon. I'm a leaf-type kind of person."
 	},
 	{
 		"title": "Harvest Moon: A Wonderful Life",
-		"image": "Harvest Moon A Wonderful Life.png",
+		"image": "Harvest Moon A Wonderful Life.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "I saw my cousin playing this when we used to sleep over at my grandma's house as a kid. To this day I love simulation games."
 	},
 	{
 		"title": "Mega Man Legends",
-		"image": "Mega Man Legends.png",
+		"image": "Mega Man Legends.jpg",
 		"platform": "PS1",
 		"icon": "simple-icons:playstation",
 		"description": "I probably never got past the first couple of levels. It was good, but I've always preferred traditional Mega Man games."
 	},
 	{
 		"title": "Spider-Man",
-		"image": "Spider-Man.png",
+		"image": "Spider-Man.jpg",
 		"platform": "PS1",
 		"icon": "simple-icons:playstation",
 		"description": "In a time when comic books were still the main source of superhero content, this game may be the reason I got into Spider-Man."
 	},
 	{
 		"title": "Spider-Man 2: Enter Electro",
-		"image": "Spider-Man 2 Enter Electro.png",
+		"image": "Spider-Man 2 Enter Electro.jpg",
 		"platform": "PS1",
 		"icon": "simple-icons:playstation",
 		"description": "The Playstation's render distance was tiny, so you could only see the tops of buildings... an abyss waits below."
 	},
 	{
 		"title": "NBA Street Vol. 2",
-		"image": "NBA Street Vol. 2.png",
+		"image": "NBA Street Vol. 2.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "This was a fun take on the \"hardcore\" sports trend of the mid-2000s."
 	},
 	{
 		"title": "Super Mario All-Stars Limited Edition",
-		"image": "Super Mario All-Stars Limited Edition.png",
+		"image": "Super Mario All-Stars Limited Edition.jpg",
 		"platform": "Wii",
 		"icon": "mdi:nintendo-wii",
 		"description": "The Wii release of Super Mario All-Stars. It's all of the classic Mario games, but with updated visuals."
 	},
 	{
 		"title": "Tony Hawk's Underground 2",
-		"image": "Tony Hawk's Underground 2.png",
+		"image": "Tony Hawk's Underground 2.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "This game took its humor from the Jackass movies of the time. Immature, sure, but the gameplay was addicting."
 	},
 	{
 		"title": "Street Fighter Alpha 3",
-		"image": "Street Fighter Alpha 3.png",
+		"image": "Street Fighter Alpha 3.jpg",
 		"platform": "PS1",
 		"icon": "simple-icons:playstation",
 		"description": "I sucked at fighting games as a child. I suck at fighting games as an adult."
 	},
 	{
 		"title": "Oddworld: Abe's Oddysee",
-		"image": "Oddworld Abe's Oddysee.png",
+		"image": "Oddworld Abe's Oddysee.jpg",
 		"platform": "PS1",
 		"icon": "simple-icons:playstation",
 		"description": "Both children and adults can enjoy this game for its mix of goofy characters, dark humor, and social commentary."
 	},
 	{
 		"title": "Hotwheels Velocity X",
-		"image": "Hotwheels Velocity X.png",
+		"image": "Hotwheels Velocity X.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "The X in the name makes it sound cool. That's because it was cool! (I was a Hotwheels kid.)"
 	},
 	{
 		"title": "1080 Avalanche",
-		"image": "1080 Avalanche.png",
+		"image": "1080 Avalanche.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "A snowboarding game with a greater focus on racing than doing tricks."
 	},
 	{
 		"title": "SSX Tricky",
-		"image": "SSX Tricky.png",
+		"image": "SSX Tricky.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "A snowboarding game with a greater focus on tricks than on racing."
 	},
 	{
 		"title": "Yu-Gi-Oh! The Duelists of the Roses",
-		"image": "Yu-Gi-Oh! The Duelists of the Roses.png",
+		"image": "Yu-Gi-Oh! The Duelists of the Roses.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "I loved Yu-Gi-Oh! as a kid, yet somehow didn't play this game much. I had way too many Dark Magician cards."
 	},
 	{
 		"title": "Godzilla: Destroy All Monsters Melee",
-		"image": "Godzilla Destroy All Monsters Melee.png",
+		"image": "Godzilla Destroy All Monsters Melee.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "The game that made me fall in love with Godzilla. Who doesn't like to watch big monsters beat each other up?"
 	},
 	{
 		"title": "The Spongebob Squarepants Movie",
-		"image": "The Spongebob Squarepants Movie.png",
+		"image": "The Spongebob Squarepants Movie.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "The Spongebob Squarepants Movie: The Game."
 	},
 	{
 		"title": "Alien Hominid",
-		"image": "Alien Hominid.png",
+		"image": "Alien Hominid.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "You can bite peoples' heads off in this game. It's okay though because you can also wear cute hats."
 	},
 	{
 		"title": "Pokemon Colosseum",
-		"image": "Pokemon Colosseum.png",
+		"image": "Pokemon Colosseum.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "You can choose between Espeon or Umbreon. I chose Umbreon because dark-mode > light-mode."
 	},
 	{
 		"title": "Metroid Prime",
-		"image": "Metroid Prime.png",
+		"image": "Metroid Prime.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "A perfect example of how to take a series into a new perspective (2D Action-Platformer to 3D First-Person-Shooter)."
 	},
 	{
 		"title": "Resident Evil 4",
-		"image": "Resident Evil 4.png",
+		"image": "Resident Evil 4.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "If I had to choose only one game to live with the rest of my life, it would be this one. I can play it over and over and over."
 	},
 	{
 		"title": "Pitfall: The Lost Expedition",
-		"image": "Pitfall The Lost Expedition.png",
+		"image": "Pitfall The Lost Expedition.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Pitfall! was the original Pitfall game on the Atari 2600. That's the only one you need to know about."
 	},
 	{
 		"title": "Yu-Gi-Oh! Nightmare Troubadour",
-		"image": "Yu-Gi-Oh! Nightmare Troubadour.png",
+		"image": "Yu-Gi-Oh! Nightmare Troubadour.jpg",
 		"platform": "DS",
 		"icon": "whh:nintendods",
 		"description": "The one Yu-Gi-OH! game that I actually played. A lot. I loved collecting cards, especially because it didn't cost real money."
 	},
 	{
 		"title": "Tony Hawk's Pro Skater 3",
-		"image": "Tony Hawk's Pro Skater 3.png",
+		"image": "Tony Hawk's Pro Skater 3.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "If only you could do sick combos when skateboarding in real life."
 	},
 	{
 		"title": "Teenage Mutant Ninja Turtles",
-		"image": "Teenage Mutant Ninja Turtles.png",
+		"image": "Teenage Mutant Ninja Turtles.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "Michelangelo was my favorite because I liked the color orange... Nowadays I appreciate Leo being the level-headed one."
 	},
 	{
 		"title": "The Legend of Zelda: Phantom Hourglass",
-		"image": "The Legend of Zelda Phantom Hourglass.png",
+		"image": "The Legend of Zelda Phantom Hourglass.jpg",
 		"platform": "DS",
 		"icon": "whh:nintendods",
 		"description": "The first handheld Zelda game that I played. It was okay. It was nice to see the Wind Waker artstyle and world again."
 	},
 	{
 		"title": "Donkey Kong Jungle Beat",
-		"image": "Donkey Kong Jungle Beat.png",
+		"image": "Donkey Kong Jungle Beat.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Bongo peripherals included. A fun game, but after hours of hitting the bongos to the beat, my hands were destroyed."
 	},
 	{
 		"title": "Prince of Persia: The Sands of Time",
-		"image": "Prince of Persia The Sands of Time.png",
+		"image": "Prince of Persia The Sands of Time.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "The time rewind mechanic blew me away when I first played it. It was a creative alternative to the standard death-state."
 	},
 	{
 		"title": "Mega Man X5",
-		"image": "Mega Man X5.png",
+		"image": "Mega Man X5.jpg",
 		"platform": "PS1",
 		"icon": "simple-icons:playstation",
 		"description": "A Mega Man game where you don't have to play as Mega Man. Good thing Zero is a fun character too."
 	},
 	{
 		"title": "Extreme-G 3",
-		"image": "Extreme-G 3.png",
+		"image": "Extreme-G 3.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "There's an Extreme-G 1 and 2?"
 	},
 	{
 		"title": "Maximo: Ghosts to Glory",
-		"image": "Maximo Ghosts to Glory.png",
+		"image": "Maximo Ghosts to Glory.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "It took me far too long to realize that this game is related to the Ghosts and Goblins series."
 	},
 	{
 		"title": "Tak and The Power of Juju",
-		"image": "Tak and The Power of Juju.png",
+		"image": "Tak and The Power of Juju.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Good juju."
 	},
 	{
 		"title": "Sly Cooper and the Thievius Raccoonus",
-		"image": "Sly Cooper and the Thievius Raccoonus.png",
+		"image": "Sly Cooper and the Thievius Raccoonus.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "I appreciated this series for its focus on stealth and problem-solving. It was fresh for its time."
 	},
 	{
 		"title": "Pokemon Dash",
-		"image": "Pokemon Dash.png",
+		"image": "Pokemon Dash.jpg",
 		"platform": "DS",
 		"icon": "whh:nintendods",
 		"description": "Pokemon Dash to the polls."
 	},
 	{
 		"title": "Kya: Dark Lineage",
-		"image": "Kya Dark Lineage.png",
+		"image": "Kya Dark Lineage.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "My sister's game. Games with strong female protagonists were even more rare than they are today."
 	},
 	{
 		"title": "Nicktoons UNITE",
-		"image": "Nicktoons UNITE.png",
+		"image": "Nicktoons UNITE.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Reminds me of a simpler time when I would watch way too much Nickelodean."
 	},
 	{
 		"title": "Batman: Vengeance",
-		"image": "Batman Vengeance.png",
+		"image": "Batman Vengeance.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "When Batman wasn't very dark at all. I like Batman media with dark tones, but the lighter comic tone is great too."
 	},
 	{
 		"title": "War of the Monsters",
-		"image": "War of the Monsters.png",
+		"image": "War of the Monsters.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "Giant monsters from the pantheon of giant monsters smash things. Sign me up."
 	},
 	{
 		"title": "The Hobbit",
-		"image": "The Hobbit.png",
+		"image": "The Hobbit.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "If I could live in Hobbiton, I would."
 	},
 	{
 		"title": "True Crime: Streets of LA",
-		"image": "True Crime Streets of LA.png",
+		"image": "True Crime Streets of LA.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Grand Theft Auto for kids who couldn't convince their parents to let them play Grand Theft Auto."
 	},
 	{
 		"title": "X-Men: Next Dimension",
-		"image": "X-Men Next Dimension.png",
+		"image": "X-Men Next Dimension.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "The X-Men are great fighting game characters. Just look at Marvel vs. Capcom."
 	},
 	{
 		"title": "Disney's Magical Mirror Starring Mickey Mouse",
-		"image": "Disney's Magical Mirror Starring Mickey Mouse.png",
+		"image": "Disney's Magical Mirror Starring Mickey Mouse.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "This game was magical as a kid. I've always enjoyed the creative settings of Mickey Mouse games."
 	},
 	{
 		"title": "NBA Courtside 2002",
-		"image": "NBA Courtside 2002.png",
+		"image": "NBA Courtside 2002.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "A sports-simulation game. Never played it. I'm a big nerd."
 	},
 	{
 		"title": "Gamecube Preview Disc",
-		"image": "Gamecube Preview Disc.png",
+		"image": "Gamecube Preview Disc.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Featured demos and videos for various Gamecube games. Billy Hatcher and Splinter Cell demos were my favorite."
 	},
 	{
 		"title": "NFL Blitz 20-02",
-		"image": "NFL Blitz 20-02.png",
+		"image": "NFL Blitz 20-02.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "A sports game I can get behind. No simulation here, just a whole lot of fun."
 	},
 	{
 		"title": "Lego Star Wars II: The Original Trilogy",
-		"image": "Lego Star Wars II The Original Trilogy.png",
+		"image": "Lego Star Wars II The Original Trilogy.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Lego games are always filled with charm. My sister and I loved unlocking all the characters."
 	},
 	{
 		"title": "Sly 2: Band of Thieves",
-		"image": "Sly 2 Band of Thieves.png",
+		"image": "Sly 2 Band of Thieves.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "This sequel made the Sly Cooper world more expansive while retaining the quality of the first."
 	},
 	{
 		"title": "Tom and Jerry in War of the Whiskers",
-		"image": "Tom and Jerry in War of the Whiskers.png",
+		"image": "Tom and Jerry in War of the Whiskers.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "A fun arena-style fighting game with Tom and Jerry characters. The kind of game you play in the dentist's waiting room."
 	},
 	{
 		"title": "Spyro: Enter the Dragonfly",
-		"image": "Spyro Enter the Dragonfly.png",
+		"image": "Spyro Enter the Dragonfly.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Spyro before Activision figured out how to turn the franchise into a toy generator."
 	},
 	{
 		"title": "Turok: Evolution",
-		"image": "Turok Evolution.png",
+		"image": "Turok Evolution.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Velociraptors are scary, yo."
 	},
 	{
 		"title": "Destroy All Humans 2",
-		"image": "Destroy All Humans 2.png",
+		"image": "Destroy All Humans 2.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "Just in case you missed a few."
 	},
 	{
 		"title": "Peter Jackson's King Kong: The Official Game of the Movie",
-		"image": "Peter Jackson's King Kong The Official Game of the Movie.png",
+		"image": "Peter Jackson's King Kong The Official Game of the Movie.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "A surprisingly good game for a movie tie-in. Giant centipedes are scary."
 	},
 	{
 		"title": "Marvel Nemesis: Rise of the Imperfects",
-		"image": "Marvel Nemesis Rise of the Imperfects.png",
+		"image": "Marvel Nemesis Rise of the Imperfects.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "I actually played the PSP version more. Both versions were extremely difficult as a kid...  and probably still are."
 	},
 	{
 		"title": "Jak II",
-		"image": "Jak II.png",
+		"image": "Jak II.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "The start of Naughty Dog's journey towards cinematic experiences."
 	},
 	{
 		"title": "Disney's PK: Out of the Shadows",
-		"image": "Disney's PK Out of the Shadows.png",
+		"image": "Disney's PK Out of the Shadows.jpg",
 		"platform": "PS2",
 		"icon": "simple-icons:playstation2",
 		"description": "Apparently Donald Duck has a superhero alias named Paperinik. That's what the PK stands for. The more you know."
 	},
 	{
 		"title": "Billy Hatcher and the Giant Egg",
-		"image": "Billy Hatcher and the Giant Egg.png",
+		"image": "Billy Hatcher and the Giant Egg.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Sonic Team's attempt at making another Sonic-type mascot. It didn't work. The game, however, is charming and creative."
 	},
 	{
 		"title": "Pokemon Mystery Dungeon: Explorers of Time",
-		"image": "Pokemon Mystery Dungeon Explorers of Time.png",
+		"image": "Pokemon Mystery Dungeon Explorers of Time.jpg",
 		"platform": "DS",
 		"icon": "whh:nintendods",
 		"description": "Not a traditional Pokemon game, but the story and multitude of Pokemon RPG-companions kept me engaged."
 	},
 	{
 		"title": "Monster Hunter 4: Ultimate",
-		"image": "Monster Hunter 4 Ultimate.png",
+		"image": "Monster Hunter 4 Ultimate.jpg",
 		"platform": "3DS",
 		"icon": "simple-icons:nintendo3ds",
 		"description": "My first Monster Hunter game. It was good, but it has an overwhelming learning curve."
 	},
 	{
 		"title": "Animal Crossing: New Leaf",
-		"image": "Animal Crossing New Leaf.png",
+		"image": "Animal Crossing New Leaf.jpg",
 		"platform": "3DS",
 		"icon": "simple-icons:nintendo3ds",
 		"description": "The first Animal Crossing game to let you substantially edit your town."
 	},
 	{
 		"title": "Rhythm Heaven Megamix",
-		"image": "Rhythm Heaven Megamix.png",
+		"image": "Rhythm Heaven Megamix.jpg",
 		"platform": "3DS",
 		"icon": "simple-icons:nintendo3ds",
 		"description": "Wubba-dubba-dub, is that true?"
 	},
 	{
 		"title": "Mario & Luigi: Partners in Time",
-		"image": "Mario & Luigi Partners in Time.png",
+		"image": "Mario & Luigi Partners in Time.jpg",
 		"platform": "DS",
 		"icon": "whh:nintendods",
 		"description": "A game borrowed between me and my elementary school friend. I don't remember who it belonged to, but it got lost. :("
 	},
 	{
 		"title": "007: Nightfire",
-		"image": "007 Nightfire.png",
+		"image": "007 Nightfire.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Hours and hours of playing hide-and-seek with my cousins on the huge ski-lift map in split-screen multiplayer."
 	},
 	{
 		"title": "Luigi's Mansion",
-		"image": "Luigi's Mansion.png",
+		"image": "Luigi's Mansion.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "Luigi finally stars in a quality game. The atmosphere is surprisingly spooky for a game in the Mario universe."
 	},
 	{
 		"title": "Animal Crossing",
-		"image": "Animal Crossing.png",
+		"image": "Animal Crossing.jpg",
 		"platform": "Gamecube",
 		"icon": "simple-icons:nintendogamecube",
 		"description": "I will never forget my time spent playing this game as a child. It helped shape me as a person."
