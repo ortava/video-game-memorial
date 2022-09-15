@@ -30,7 +30,7 @@ export function loadData(platform) {
   //  (In this build, nameplates.json is only used as an imported file through JavaScript.
   //  However, an XMLHttpRequest still needs to be opened in order to accomodate the AJAX functionality.)
   xhr.open('GET',                                                                                        // retrieve data from json file.
-          'nameplates.json',
+          'index.html',
           true);                                                                                         // this is an asynchronous request
   
   xhr.onload = function(){                            // this function runs after loadData() and App() are done because this is an async request
